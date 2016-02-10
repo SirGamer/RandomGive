@@ -1,2 +1,2 @@
 # RandomGive
-Random Give ITEM Plugin For PocketMine-MP
+Give Random ITEM Plugin For PocketMine-MP
